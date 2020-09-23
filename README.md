@@ -1,6 +1,7 @@
 ### Hi I'm Ayush
 
-- I am a entrepreneur,software engineer, and computer science student.
+- I am a entrepreneur, software engineer, and computer science student graduating in May 2021.
+  - I am currently seeking full time positions in Sotware Engineering for 2021.
 - I previously worked at Microsoft and TerumoBCT. 
 - Outside of entrepreneurship/coding I enjoy watching and playing basketball, lifting weights, and occasionally playing videogames.
 - 🔭 I’m currently working on a startup with friends
