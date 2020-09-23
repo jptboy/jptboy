@@ -1,4 +1,4 @@
-### Hi I'm Ayush
+### 👋 Hi I'm Ayush 👋
 
 - 💼 I am a entrepreneur, software engineer, and computer science student graduating in May 2021.
   - 👨‍💼 I am currently seeking full time positions in Sotware Engineering for 2021.
