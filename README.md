@@ -8,5 +8,5 @@
 - 🔭 I’m currently working on a startup with friends
 - 🌱 I’m currently learning how to write a basic OS in C++
 -----------------
-[![Linkedin Badge](https://img.shields.io/badge/-ayushkhanal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushkhanal/)](https://www.linkedin.com/in/ayushkhanal/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Khanal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushkhanal/)](https://www.linkedin.com/in/ayushkhanal/)
 [![Gmail Badge](https://img.shields.io/badge/-vegetablebat1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vegetablebat1@gmail.com)](mailto:vegetablebat1@gmail.com)
