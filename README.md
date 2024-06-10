@@ -7,4 +7,4 @@
 - 💻 I enjoy learning different programming languages/paradigms
 -----------------
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Khanal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushkhanal/)](https://www.linkedin.com/in/ayushkhanal/)
-[![Gmail Badge](https://img.shields.io/badge/-ayush.khanal@utexas.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vegetablebat1@gmail.com)](mailto:vegetablebat1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ayush.khanal@utexas.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayush.khanal@utexas.edu)](mailto:ayush.khanal@utexas.edu)
